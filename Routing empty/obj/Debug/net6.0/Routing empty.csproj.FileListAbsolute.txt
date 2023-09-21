@@ -1,0 +1,26 @@
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\bin\Debug\net6.0\appsettings.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\bin\Debug\net6.0\Routing empty.exe
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\bin\Debug\net6.0\Routing empty.deps.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\bin\Debug\net6.0\Routing empty.runtimeconfig.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\bin\Debug\net6.0\Routing empty.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\bin\Debug\net6.0\Routing empty.pdb
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.csproj.AssemblyReference.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.AssemblyInfoInputs.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.AssemblyInfo.cs
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.csproj.CoreCompileInputs.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\staticwebassets\msbuild.Routing empty.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\staticwebassets\msbuild.build.Routing empty.props
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Routing empty.props
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Routing empty.props
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\scopedcss\bundle\Routing empty.styles.css
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\refint\Routing empty.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.pdb
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\Routing empty.genruntimeconfig.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\Routing empty\obj\Debug\net6.0\ref\Routing empty.dll

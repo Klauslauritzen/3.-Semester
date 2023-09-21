@@ -1,0 +1,15 @@
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ClientServer.csproj.AssemblyReference.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ClientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ClientServer.AssemblyInfoInputs.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ClientServer.AssemblyInfo.cs
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\bin\Debug\net6.0\ClientServer.exe
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\bin\Debug\net6.0\ClientServer.deps.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\bin\Debug\net6.0\ClientServer.runtimeconfig.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\bin\Debug\net6.0\ClientServer.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\bin\Debug\net6.0\ClientServer.pdb
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ClientServer.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\refint\ClientServer.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ClientServer.pdb
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ClientServer.genruntimeconfig.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\ClientServer\obj\Debug\net6.0\ref\ClientServer.dll
