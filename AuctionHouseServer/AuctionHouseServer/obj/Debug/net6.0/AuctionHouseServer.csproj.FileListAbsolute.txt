@@ -1,0 +1,15 @@
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\bin\Debug\net6.0\AuctionHouseServer.exe
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\bin\Debug\net6.0\AuctionHouseServer.deps.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\bin\Debug\net6.0\AuctionHouseServer.runtimeconfig.json
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\bin\Debug\net6.0\AuctionHouseServer.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\bin\Debug\net6.0\AuctionHouseServer.pdb
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\AuctionHouseServer.csproj.AssemblyReference.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\AuctionHouseServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\AuctionHouseServer.AssemblyInfoInputs.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\AuctionHouseServer.AssemblyInfo.cs
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\AuctionHouseServer.csproj.CoreCompileInputs.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\AuctionHouseServer.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\refint\AuctionHouseServer.dll
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\AuctionHouseServer.pdb
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\AuctionHouseServer.genruntimeconfig.cache
+C:\Users\klaus\OneDrive\Skrivebord\Studie\3. Semester\Programering\Koder\AuctionHouseServer\AuctionHouseServer\obj\Debug\net6.0\ref\AuctionHouseServer.dll
